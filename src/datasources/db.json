@@ -1,0 +1,7 @@
+{
+  "models": {
+    "User": {
+      "1": "{\"id\":1,\"first_name\":\"abc\",\"last_name\":\"dasd\",\"middle_name\":\"wqeqweqwe\",\"email\":\"abcde@gmail.com\",\"phone_number\":\"4234234235324\",\"role\":\"subscriber\"}"
+    }
+  }
+}
